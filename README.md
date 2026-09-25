@@ -148,7 +148,7 @@ disk.qcow2 → disk(1).vmdk   (если disk.vmdk уже есть)
 Здесь все готовые файлы в хранилище: имя, размер и прямая ссылка вида
 
 ```
-https://storage-img.tw-work.ru/images/имя_образа.формат
+https://img.tw-work.ru/images/имя_образа.формат
 ```
 
 | Кнопка | Действие |
